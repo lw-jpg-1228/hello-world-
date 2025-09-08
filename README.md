@@ -1,2 +1,3 @@
 # hello-world-
-Practice for github
+#Practice for github
+print("hello world")
